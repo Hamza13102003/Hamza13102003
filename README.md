@@ -12,7 +12,7 @@ Building intelligent systems with AI, Machine Learning, and Deep Learning to sol
 
 ## 🚀 About Me
 
-- 🎓 Bachelor's Graduate in **Artificial Intelligence**
+- 🎓 Bachelor's of Science in **Artificial Intelligence**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**
 - 📱 Developed an **Android Malware Detection System using Deep Learning**
 - 🧠 Interested in Computer Vision, Large Language Models (LLMs), and AI-powered Applications
